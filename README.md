@@ -1,7 +1,7 @@
 # css-Javascript
 
 # Enlace a la página
-https://g-code99.github.io/css-Javascript/
+https://github.com/gioeh07/A3.1CSS-JS.git
 
 ## Introducción
 Pagina en la que se muestra un comportamiento simple de CSS y JavaScript.
